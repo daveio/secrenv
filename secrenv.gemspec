@@ -19,7 +19,6 @@ Gem::Specification.new do |spec|
   spec.metadata["rubygems_version"] = Gem::VERSION
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = spec.homepage
   spec.metadata["changelog_uri"] = "#{spec.homepage}/blob/main/CHANGELOG.md"
 
   # Specify which files should be added to the gem when it is released.
