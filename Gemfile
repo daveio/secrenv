@@ -8,4 +8,5 @@ gemspec
 gem "irb"
 gem "rake-compiler"
 gem "rake", "~> 13.0"
+gem "solargraph", "~> 0.57.0"
 gem "standard", "~> 1.3"
